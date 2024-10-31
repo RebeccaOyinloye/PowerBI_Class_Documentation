@@ -22,4 +22,35 @@ The original dataset 'HR Data' used for this project was provided by The Incubat
 To ensure Data accuracy, we performed the following preprocessing steps: 
 1. Checking data quality and consistency
 2. Analyzing data Profile and distribution
-3. Promoting first column as header 
+3. Promoting first column as header
+
+ ### Exploratory Data Analysis
+
+ We explored the HR Data to answer key questions such as: 
+1. What is the total number of employees?
+2. What is the number of current employees?
+3. What is the total number of attrition count?
+4. What is the attrition rate?
+5. What is the attrition count by department?
+6. What is the attrition count by educational field?
+7. What is the attrition count by gender?
+8. What is the count of current employees by gender?
+9. What is the marital status of current employees?
+10. What are the job roles and satisfaction/dissatisfaction levels?
+11. What is the attrition rate by age bands?
+
+### Data Analysis 
+
+1. Measures
+- Attrition Rate
+```DAX
+Attrition Rate = SUM('HR data'[Attrition Count]) / SUM('HR data'[Employee Count])
+```
+- Average Age of Employee
+```DAX
+AVG Employee AGE = AVERAGE('HR data'[Age])
+```
+2. Conditional Columns
+- Attrition Count
+-  Age Sort
+-  job Satisfaction Rating 
