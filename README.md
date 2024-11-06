@@ -1,15 +1,15 @@
 # Hr Data Analysis with Power BI 
 
 ### Project Overview
-
+---
 This project aims to gain insight into employee demographics, performance and attrition rate. Utilizing Power BI and guidance from my facilitator at The Incubator Hub, I created an interactive and informative report, extracting valuable insights.  This project showcases my skills in data modelling, visualization, dashboard design and DAX formula writing, demonstrating my ability to work with HR datasets and extract actionable recommendations.
 
 ### Data Source 
-
+---
 The original dataset 'HR Data' used for this project was provided by The Incubator Hub as part of Their Data Analysis Training resources. 
 
 ### Tools Used 
-
+---
 - Power Bi
   1. For Data Cleaning and Preparation 
   2. For Data Analysis
@@ -18,14 +18,14 @@ The original dataset 'HR Data' used for this project was provided by The Incubat
 - GitHub - For Portfolio Building 
 
 ### Data Cleaning and Preparation 
-
+---
 To ensure Data accuracy, we performed the following preprocessing steps: 
 1. Checking data quality and consistency
 2. Analyzing data Profile and distribution
 3. Promoting first column as header
 
  ### Exploratory Data Analysis
-
+---
  We explored the HR Data to answer key questions such as: 
 1. What is the total number of employees?
 2. What is the number of current employees?
@@ -40,7 +40,7 @@ To ensure Data accuracy, we performed the following preprocessing steps:
 11. What is the attrition rate by age bands?
 
 ### Data Analysis 
-
+---
 1. Measures
 - Attrition Rate
 ```DAX
@@ -56,7 +56,7 @@ AVG Employee AGE = AVERAGE('HR data'[Age])
 -  job Satisfaction Rating
 
 ### Findings and Results
-
+---
 The analysis uncovered several significant trends in employee attrition:
 
 - The R&D department has the highest attrition rate.
@@ -67,7 +67,7 @@ The analysis uncovered several significant trends in employee attrition:
 - Divorced employees have a higher attrition rate. In contrast, married employees report a higher job satisfaction rate.
 
 ### Recommendations 
-
+---
 Based on the analysis, I recommend the following actions: 
 
 - Implement targeted retention initiative in the sales department 
@@ -75,3 +75,15 @@ Based on the analysis, I recommend the following actions:
 - Build on existing strategies to maintain high job satisfaction among married employees 
 - Offer competitive salary and benefits to technical degree holder
 - Develop program to promote diversity
+
+### Limitation 
+---
+This analysis has minimal limitations due to the high-quality dataset. The data cleaning and exploration process using Power BI ensured:
+
+- 100% column quality validity
+- Accurate and complete data
+
+### Conclusion 
+---
+This analysis identified significant trends in employee attrition, highlighting areas for improvement.
+By implementing these strategies, the organization can reduce attrition, improve job satisfaction, and promote a more inclusive work environment.
