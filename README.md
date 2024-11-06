@@ -53,4 +53,25 @@ AVG Employee AGE = AVERAGE('HR data'[Age])
 2. Conditional Columns
 - Attrition Count
 -  Age Sort
--  job Satisfaction Rating 
+-  job Satisfaction Rating
+
+### Findings and Results
+
+The analysis uncovered several significant trends in employee attrition:
+
+- The R&D department has the highest attrition rate.
+- Life Sciences and Medical fields exhibit high attrition rates.
+- The Sales department records a high attrition count.
+- Male employees display a higher attrition rate.
+- Technical Degree holders also experience high attrition rates.
+- Divorced employees have a higher attrition rate. In contrast, married employees report a higher job satisfaction rate.
+
+### Recommendations 
+
+Based on the analysis, I recommend the following actions: 
+
+- Implement targeted retention initiative in the sales department 
+- Enhance the work environment and benefit in R&D department 
+- Build on existing strategies to maintain high job satisfaction among married employees 
+- Offer competitive salary and benefits to technical degree holder
+- Develop program to promote diversity
