@@ -77,6 +77,12 @@ AVG Employee AGE = AVERAGE('HR data'[Age])
 -  Age Sort
 -  job Satisfaction Rating
 
+### Visualization
+---
+
+![HR_data_dashboard](https://github.com/user-attachments/assets/1b8ef222-d5ce-4c35-9ba6-14f0eb1ca701)
+
+
 ### Findings and Results
 ---
 The analysis uncovered several significant trends in employee attrition:
