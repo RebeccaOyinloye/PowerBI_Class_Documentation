@@ -14,6 +14,8 @@
 
 [Data Analysis](#data-analysis)
 
+[Visualization](#visualization)
+
 [Findings and Results](#findings-and-results)
 
 [Recommendations](#recommendations)
@@ -49,17 +51,17 @@ To ensure Data accuracy, we performed the following preprocessing steps:
  ### Exploratory Data Analysis
 ---
  We explored the HR Data to answer key questions such as: 
-1. What is the total number of employees?
-2. What is the number of current employees?
-3. What is the total number of attrition count?
-4. What is the attrition rate?
-5. What is the attrition count by department?
-6. What is the attrition count by educational field?
-7. What is the attrition count by gender?
-8. What is the count of current employees by gender?
-9. What is the marital status of current employees?
-10. What are the job roles and satisfaction/dissatisfaction levels?
-11. What is the attrition rate by age bands?
+- What is the total number of employees?
+- What is the number of current employees?
+- What is the total number of attrition count?
+- What is the attrition rate?
+- What is the attrition count by department?
+- What is the attrition count by educational field?
+- What is the attrition count by gender?
+- What is the count of current employees by gender?
+- What is the marital status of current employees?
+- What are the job roles and satisfaction/dissatisfaction levels?
+- What is the attrition rate by age bands?
 
 ### Data Analysis 
 ---
@@ -80,7 +82,15 @@ AVG Employee AGE = AVERAGE('HR data'[Age])
 ### Visualization
 ---
 
+- HR Data Dashboard, which happens to be my first visualization 
+
 ![HR_data_dashboard](https://github.com/user-attachments/assets/1b8ef222-d5ce-4c35-9ba6-14f0eb1ca701)
+
+
+- HR data Table
+
+  
+![HR Data](https://github.com/user-attachments/assets/f2aa44be-2765-4e1c-931f-24aea58a18a2)
 
 
 ### Findings and Results
