@@ -1,5 +1,27 @@
 # Hr Data Analysis with Power BI 
 
+## Table of Content
+
+[Project Overview](#Project-overview)
+
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Findings and Results](#findings-and-results)
+
+[Recommendations](#recommendations)
+
+[Limitation](#limitation)
+
+[Conclusion](#conclusion)
+
 ### Project Overview
 ---
 This project aims to gain insight into employee demographics, performance and attrition rate. Utilizing Power BI and guidance from my facilitator at The Incubator Hub, I created an interactive and informative report, extracting valuable insights.  This project showcases my skills in data modelling, visualization, dashboard design and DAX formula writing, demonstrating my ability to work with HR datasets and extract actionable recommendations.
